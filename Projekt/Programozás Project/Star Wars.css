@@ -1,0 +1,40 @@
+h1{
+    color: yellow
+    
+    }
+    
+    body{
+    background-color: gray;
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+    
+    }
+
+    h2{
+color: yellow;
+
+    }
+
+    p{
+
+        color: yellow;
+        text-indent: 20px;
+        text-align: justify;
+    }
+
+h6{
+    color: yellow;
+    
+        }
+
+img{
+
+    width: 10cm;
+    height: 5cm;
+}
+
+label{
+
+    color: yellow;
+}
